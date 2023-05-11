@@ -1,0 +1,2 @@
+class SaberPicker:
+    pass
