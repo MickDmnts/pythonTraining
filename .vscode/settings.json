@@ -8,6 +8,6 @@
         "**/Thumbs.db": true,
         "[!e]*/**": true,
         "e[!x]*/**": true,
-        "ex[!2]*/**": true
+        "ex[!3]*/**": true
     }
 }
